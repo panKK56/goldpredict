@@ -1,4 +1,11 @@
 pandas 
 numpy
 seaborn
+yfinance
+statsmodels
+pmdarima
+utils
+scikit-learn
+dill
+tensorflow
 -e .
